@@ -1,7 +1,9 @@
-.pp-table-cell {
-    height: 300px;
-}
 
-section img {
- 
+
+img {
+    display: block;
+     width: 36rem;
+    height: auto;
+   
+    margin: 1rem auto;
 }
